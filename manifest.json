@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-media-db-plugin",
+	"name": "Media DB (RU)",
+	"version": "0.8.1-ru",
+	"minAppVersion": "1.12.0",
+	"description": "Плагин для поиска фильмов, сериалов, аниме, игр, музыки и статей Wikipedia через различные API (TMDB, IGDB, RAWG и др.) с импортом в хранилище.",
+	"author": "Moritz Jung",
+	"authorUrl": "https://www.moritzjung.dev",
+	"fundingUrl": "https://github.com/sponsors/mProjectsCode",
+	"isDesktopOnly": false
+}
