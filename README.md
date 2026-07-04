@@ -1,4 +1,4 @@
-# Media DB (RU) — русская версия
+# Media DB (RU) — Русская версия
 
 Русская локализация плагина [obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) с улучшенной настройкой API-источников для фильмов и игр.
 
